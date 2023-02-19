@@ -6,7 +6,7 @@ Um site para captação de leads.
 <p>Usei o seguinte site como referência para este projeto: <a href="https://trendsbrooklin.com.br/?keyword=apartamento%203%20dormit%C3%B3rios&creative=598785389979&gclid=Cj0KCQiArsefBhCbARIsAP98hXR9WAYcq6JD36tsr0xHmlUdGa5vaKBJ9Ep_27F3G3kbZPdewd_njRIaAjLLEALw_wcB" target="_blank">TrendsBrooklin</a></p>
 
 
-<h3>Informações de documentação</h3>
+<h2>Informações de documentação</h2>
 <br>
 <h5>bootstrap</h5>
 <p>Estou usando o bootstrap 5.2, o link para documentação é esse: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">Bootstrap</a></p>
