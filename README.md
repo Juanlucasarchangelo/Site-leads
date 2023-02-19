@@ -2,7 +2,7 @@
 
 Um site para captação de leads.
 
-<h3>Informações de referência</h3>
+<h2>Informações de referência</h2>
 <p>Usei o seguinte site como referência para este projeto: <a href="https://trendsbrooklin.com.br/?keyword=apartamento%203%20dormit%C3%B3rios&creative=598785389979&gclid=Cj0KCQiArsefBhCbARIsAP98hXR9WAYcq6JD36tsr0xHmlUdGa5vaKBJ9Ep_27F3G3kbZPdewd_njRIaAjLLEALw_wcB" target="_blank">TrendsBrooklin</a></p>
 
 
