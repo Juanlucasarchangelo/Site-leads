@@ -7,7 +7,6 @@ Um site para captação de leads.
 
 
 <h2>Informações de documentação</h2>
-<br>
 <h5>bootstrap</h5>
 <p>Estou usando o bootstrap 5.2, o link para documentação é esse: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">Bootstrap</a></p>
 <br>
