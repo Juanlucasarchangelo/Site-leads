@@ -9,10 +9,10 @@ Um site para captação de leads.
 <h3>Informações de documentação</h3>
 <br>
 <h5>bootstrap</h5>
-<p>Estou usando o bootstrap 5.2, o link para documentação é esse: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/">Bootstrap</a></p>
+<p>Estou usando o bootstrap 5.2, o link para documentação é esse: <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank">Bootstrap</a></p>
 <br>
 <h5>Font Awesome</h5>
-<p>Estou usando tambem para icones o Font Awesome, link para documentação: <a href="https://fontawesome.com/v4/icons/#web-application">FontAwesome</a></p>
+<p>Estou usando tambem para icones o Font Awesome, link para documentação: <a href="https://fontawesome.com/v4/icons/#web-application" target="_blank">FontAwesome</a></p>
 <br>
 <h2>Mobile</h2>
 <p>Dar uma atenção para o mobile, pois é nele que a maioria dos clientes irão acessar o mesmo. O tempo é importante, mas a funcionalidade é mais! :)</p>
