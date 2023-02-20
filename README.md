@@ -15,3 +15,4 @@ Um site para captação de leads.
 <br>
 <h2>Mobile</h2>
 <p>Dar uma atenção para o mobile, pois é nele que a maioria dos clientes irão acessar o mesmo. O tempo é importante, mas a funcionalidade é mais! :)</p>
+<p>A forma de adaptação para mobile será atraves do próprio bootstrap usando: Prefixo de classe	col- (Mobile), col-md- (Tablet), col-xl- (Tela comum).</p>
